@@ -1,0 +1,5 @@
+﻿  Callback.c
+C:\Users\Henrik\Documents\_Henrik's study\code\C\C_curse\Callback.c(6,13): warning C4244: 'return': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Henrik\Documents\_Henrik's study\code\C\C_curse\Callback.c(11,19): warning C4244: 'return': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Henrik\Documents\_Henrik's study\code\C\C_curse\Callback.c(16,13): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  C_curse.vcxproj -> C:\Users\Henrik\Documents\_Henrik's study\code\C\C_curse\x64\Debug\C_curse.exe
